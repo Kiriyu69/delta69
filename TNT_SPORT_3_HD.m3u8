@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1905811" tvg-name="UK-NOWTV| TNT SPORT 3 HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905811.png" group-title="[atk97.online] UK| NOW TV" tvg-chno="26626",UK-NOWTV| TNT SPORT 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:BC:94:42; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer F6BA6DCBFED6DCEBBFE0A3BE86494DAA
+http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=1905811&extension=ts&play_token=W4s1xAKVjR
