@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+#EXT-X-STREAM-INF:BANDWIDTH=2128000
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1458653&extension=ts&play_token=bzumB6aedO
