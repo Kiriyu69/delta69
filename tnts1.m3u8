@@ -1,6 +1,5 @@
 #EXTM3U
+#EXT-X-VERSION:3
 
-#EXTINF:0,TNT SPORT 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=http://mag.greatott.me/
+#EXT-X-STREAM-INF:BANDWIDTH=2128000
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1458654&extension=ts&play_token=Yll8mGkc5p
