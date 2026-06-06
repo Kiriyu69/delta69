@@ -1,0 +1,36 @@
+eror lewat playlis
+#EXTINF:-1 tvg-id="1905817" tvg-name="UK-NOWTV| TNT SPORT 1 HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905817.png" group-title="[globalgnet.live] UK| NOW TV" tvg-chno="5306",UK-NOWTV| TNT SPORT 1 HD
+https://alphadevs99.web.id/tnts1.m3u8
+
+#EXTINF:-1 tvg-id="1905815" tvg-name="UK-NOWTV| TNT SPORT 2 HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905815.png" group-title="[globalgnet.live] UK| NOW TV" tvg-chno="5310",UK-NOWTV| TNT SPORT 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+https://alphadevs99.web.id/tnts2.m3u8
+
+#EXTINF:-1 tvg-id="1905812" tvg-name="UK-NOWTV| TNT SPORT 3 HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905812.png" group-title="[globalgnet.live] UK| NOW TV" tvg-chno="5313",UK-NOWTV| TNT SPORT 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+https://alphadevs99.web.id/tnts3.m3u8
+
+#EXTINF:-1 tvg-id="1905809" tvg-name="UK-NOWTV| TNT SPORTS 4 HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905809.png" group-title="[globalgnet.live] UK| NOW TV" tvg-chno="5316",UK-NOWTV| TNT SPORTS 4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+https://alphadevs99.web.id/tnts4.m3u8
+
+
+#EXTINF:-1 channel-id="xt_1047261" tvg-id="TNT.Sports.2.HD.uk" tvg-chno="" tvg-name="UK| TNT SPORTS 2 SD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS2.png" group-title="UK| SPORTS",UK| TNT SPORTS 2 SD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://line.flixteletx.com:80/live/7625b5bdf6/150cb8819e/1047260.ts
+
+#EXTINF:-1 channel-id="xt_1047261" tvg-id="TNT.Sports.2.HD.uk" tvg-chno="" tvg-name="UK| TNT SPORTS 2 SD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS2.png" group-title="UK| SPORTS",UK| TNT SPORTS 2 SD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://line.flixteletx.com:80/live/7625b5bdf6/150cb8819e/1047261.ts
+
+#EXTINF:-1 channel-id="xt_1047262" tvg-id="TNT.Sports.3.HD.uk" tvg-chno="" tvg-name="UK| TNT SPORTS 3 SD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS3.png" group-title="UK| SPORTS",UK| TNT SPORTS 3 SD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://line.flixteletx.com:80/live/7625b5bdf6/150cb8819e/1047262.ts
+
+#EXTINF:-1 channel-id="xt_1047263" tvg-id="TNT.Sports.4.HD.uk" tvg-chno="" tvg-name="UK| TNT SPORTS 4 SD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS4.png" group-title="UK| SPORTS",UK| TNT SPORTS 4 SD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#EXTHTTP:{"User-Agent":"IPTVSmartersPlayer"}
+http://line.flixteletx.com:80/live/7625b5bdf6/150cb8819e/1047263.ts
