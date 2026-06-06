@@ -1,1 +1,1 @@
-http://globalgnet.live:80/play/live.php?mac=00:1A:79:17:02:32&stream=79486&extension=ts&play_token=g8Ng0NL65S
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:17:02:32&stream=79486&extension=ts&play_token=equMHLtE9X
