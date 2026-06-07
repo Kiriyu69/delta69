@@ -1,1 +1,1 @@
-https://vidb.semar.my.id/inews-sdi-avc1_1000000=22-mp4a_96000=1.m3u8&auth=inewssemar25
+https://sports.semar.my.id/get.php?id=inews.m3u8&auth=inewssemar25
