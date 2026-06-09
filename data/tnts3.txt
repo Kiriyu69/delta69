@@ -1,1 +1,1 @@
-http://globalgnet.live:80/play/live.php?mac=00:1A:79:17:02:32&stream=79484&extension=ts&play_token=mnhZb4Caoo
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=79484&extension=ts&play_token=f4WEY4licR
