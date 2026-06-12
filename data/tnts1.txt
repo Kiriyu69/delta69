@@ -1,1 +1,1 @@
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=79486&extension=ts&play_token=Sbbcp7Ccm7
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=79486&extension=ts&play_token=yjr50ZjBT2
