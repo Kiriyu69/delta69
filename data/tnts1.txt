@@ -1,1 +1,1 @@
-http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=79486&extension=ts&play_token=QVjD8pFgbA
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=79486&extension=ts&play_token=MNqTlIGQfy
