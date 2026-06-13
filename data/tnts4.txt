@@ -1,1 +1,1 @@
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1002857&extension=ts&play_token=Y3ShQNFoqG
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:17:02:32&stream=1002857&extension=ts&play_token=PbGqDbC2S0
