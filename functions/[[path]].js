@@ -14,18 +14,20 @@ export async function onRequest(context) {
     .replace(/^\/+|\/+$/g, "")
     .toLowerCase();
 
-  // File homepage / static tetap normal
+  // File static / halaman normal
+  // Pakai file tanpa ekstensi: fsone
   if (
     path === "" ||
-  path === "index.html" ||
-   path === "fsone.html" ||
-  path === "style.css" ||
-  path === "script.js" ||
-  path === "vx-orion-core.js" ||
-  path === "favicon.ico" ||
-  path === "robots.txt" ||
-  path === "nyawits.png" ||
-  path === "app.apk"
+    path === "index.html" ||
+    path === "style.css" ||
+    path === "script.js" ||
+    path === "fsone" ||
+    path === "fsone.html" ||
+    path === "vx-orion-core.js" ||
+    path === "favicon.ico" ||
+    path === "robots.txt" ||
+    path === "nyawits.png" ||
+    path === "app.apk"
   ) {
     return context.next();
   }
@@ -47,43 +49,6 @@ export async function onRequest(context) {
 
   // Selain URL playlist, arahkan ke homepage
   if (!file) {
-    return Response.redirect(HOMEPAGE, 302);
-  }
-
-  const ua = (
-    request.headers.get("user-agent") || ""
-  ).toLowerCase();
-
-  const accept =
-    request.headers.get("accept") || "";
-
-  const secFetchDest =
-    request.headers.get("sec-fetch-dest") || "";
-
-  const secFetchMode =
-    request.headers.get("sec-fetch-mode") || "";
-
-  // Blokir browser desktop/android
-  // Jangan blokir dari kata chrome/safari/firefox,
-  // karena player bisa pakai UA mirip browser.
-  const isBrowser =
-    accept.includes("text") ||
-    secFetchDest === "document" ||
-    secFetchMode === "navigate";
-
-  // Blokir curl / downloader
-  const isDownloader =
-    ua.includes("curl") ||
-    ua.includes("wget") ||
-    ua.includes("httpie") ||
-    ua.includes("aria2") ||
-    ua.includes("axel") ||
-    ua.includes("idm") ||
-    ua.includes("internet download manager") ||
-    ua.includes("adm") ||
-    ua.includes("advanced download manager");
-
-  if (isBrowser || isDownloader) {
     return Response.redirect(HOMEPAGE, 302);
   }
 
