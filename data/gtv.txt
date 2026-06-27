@@ -1,3 +1,1 @@
-#EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=800000
-http://fastshare1.com:8080/live/Jen12345/Jen54321/186630.ts
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/2jbycgm3g3/out/v1/066dd9325648468c9ecdc8b272370931/cenc.mpd
