@@ -23,6 +23,7 @@ export async function onRequest(context) {
     path === "tnt2.m3u8" ||
     path === "tnt3.m3u8" ||
     path === "tnt4.m3u8" ||
+    path === "aniplusid.m3u8" ||
     path === "script.js" ||
     path === "favicon.ico"
   ) {
