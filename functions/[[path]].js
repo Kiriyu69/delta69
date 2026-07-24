@@ -23,7 +23,6 @@ export async function onRequest(context) {
     path === "tnt2.m3u8" ||
     path === "tnt3.m3u8" ||
     path === "tnt4.m3u8" ||
-    path === "aniplusid.m3u8" ||
     path === "script.js" ||
     path === "favicon.ico"
   ) {
@@ -39,6 +38,7 @@ export async function onRequest(context) {
     "anibox.m3u8": "anibox.txt",
     "anione.m3u8": "anione.txt",
     "animax.m3u8": "animax.txt",
+    "hbosign.m3u8": "hbosign.txt",
     "anipluss.m3u8": "anipluss.txt",
     "gtv.m3u8": "gtv.txt"
   };
