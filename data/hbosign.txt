@@ -1,0 +1,1 @@
+http://ikitv.sqn.at:8000/play/a051/index.m3u8
