@@ -1,1 +1,1 @@
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1032528&extension=ts&play_token=tMgjr9Dx6J
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1032528&extension=ts&play_token=XlCnpfTCax
