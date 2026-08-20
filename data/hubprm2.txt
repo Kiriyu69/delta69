@@ -1,1 +1,1 @@
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1032528&extension=ts&play_token=jnQAKTXZje
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1032528&extension=ts&play_token=2yZDs6PWUy
